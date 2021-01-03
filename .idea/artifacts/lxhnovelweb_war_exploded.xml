@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lxhnovelweb:war exploded">
+    <output-path>D:/apache-tomcat-8.5.57/webapps/lxhnovelweb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lxhnovelweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lxhnovelweb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
